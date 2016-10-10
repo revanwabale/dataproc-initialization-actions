@@ -52,7 +52,7 @@ HIVE_USER_PASSWORD='hive-password'
 
 # MySQL root password used to initialize metastore.
 # Empty is the default for new CloudSQL instances.
-MYSQL_ROOT_PASSWORD=''
+MYSQL_ROOT_PASSWORD='Bigdata@123'
 
 PROXY_DIR='/var/run/cloud_sql_proxy'
 PROXY_BIN='/usr/local/bin/cloud_sql_proxy'
